@@ -1,7 +1,7 @@
 # Market notifications
 
 ## Project
-This program checks for the most popular/neccesary signals on the market and sends and email update.
+This simple program checks for the most popular/neccesary signals on the market and sends and email update.
 
 
 ## Current signals
