@@ -10,8 +10,10 @@ CNN Fear and greed
 ## Deployment
 Needs to create an .env file and set the following values:
 
-`APP_MAIL` var to the sender email account.
+`APP_MAIL` var to the sender's email account.
 
-`APP_PASS` var to the password of the sender email account.
+`APP_PASS` var to the password of the sender's email account.
 
-`DESTINATION_MAIL` var to the receiving email account.
+`DESTINATION_MAIL` var to the recipient's email account.
+
+Can use pythonanywhere for free to deploy this program remotely and receive daily updates.
