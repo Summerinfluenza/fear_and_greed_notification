@@ -1,13 +1,13 @@
-#Market notifications
+# Market notifications
 
-##Project
+## Project
 This program checks for the most popular/neccesary signals on the market and sends and email update.
 
 
-##Current signals
+## Current signals
 CNN Fear and greed
 
-##To run
+## Deployment
 Needs to create an .env file and set the following values:
 
 `APP_MAIL` var to the sender email account.
