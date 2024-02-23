@@ -11,5 +11,7 @@ CNN Fear and greed
 Needs to create an .env file and set the following values:
 
 `APP_MAIL` var to the sender email account.
+
 `APP_PASS` var to the password of the sender email account.
+
 `DESTINATION_MAIL` var to the receiving email account.
